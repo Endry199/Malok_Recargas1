@@ -1,5 +1,0 @@
-<¡doctype html>
-<html>
-<h1>Hola mano</h1>
-</html>
-
